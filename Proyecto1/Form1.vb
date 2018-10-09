@@ -431,4 +431,8 @@
             Button8.Enabled = True
         End If
     End Sub
+
+    Private Sub tsig1_TextChanged(sender As Object, e As EventArgs) Handles tsig1.TextChanged
+
+    End Sub
 End Class

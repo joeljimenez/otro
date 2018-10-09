@@ -11,7 +11,6 @@
     <Position X="3.5" Y="1.5" Width="1.5" />
     <Compartments>
       <Compartment Name="Properties" Collapsed="true" />
-      <Compartment Name="Methods" Collapsed="true" />
       <Compartment Name="Events" Collapsed="true" />
     </Compartments>
     <NestedTypes>
